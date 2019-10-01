@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: Rif Marketing
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## RIF Marketing
 ---
 
-There isn't much going on here yet, but watch this space
+Stay at home dad who loves marketing...
